@@ -1,0 +1,1 @@
+This is the week-2 course project for the 'Reproducible Research' course. In this assignment I have presented all the necessary codes that are productive toward the requested result in the assignment. All the files (rmd, html and the figures in .png) are uploaded here. 
